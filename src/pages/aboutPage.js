@@ -1,7 +1,7 @@
 import React from "react";
 
-function Hakkimizda() {
-  return <h1 className="text-3xl font-bold text-center mt-20">Hakkımızda Sayfası</h1>;
+function AboutPage() {
+  return <h1 className="text-3xl font-bold text-center mt-20">About Page</h1>;
 }
 
-export default Hakkimizda;
+export default AboutPage;
